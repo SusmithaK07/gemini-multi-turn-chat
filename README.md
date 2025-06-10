@@ -1,11 +1,8 @@
 # 🤖 Gemini Multi-Turn Chat
 
-An interactive chatbot application using Google's Gemini AI that maintains conversation context across multiple turns, with robust error handling and a visually appealing interface.
+An interactive chatbot application using Google's Gemini AI that maintains conversation context across multiple turns, with robust error handling.
 
-<div align="center">
-  <img src="https://i.imgur.com/8wEwwQa.png" alt="Gemini AI Logo" width="250"/>
-  <p><em>Powered by Google's Gemini 1.5 Flash model</em></p>
-</div>
+
 
 ## ✨ Key Features
 
